@@ -1,53 +1,7 @@
-# Alex Houle's GitHub Stats
 
-## Overview
 
-This README provides an overview of my GitHub activity and statistics.
+## 📊 GitHub Stats
 
-## Profile Stats
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-Houle&show_icons=true&theme=radical)
 
-- **Username:** Alex-Houle
-- **Repositories:** 
-- **Followers:** 
-- **Following:** 
-
-## Repository Stats
-
-### Top Repositories
-
-1. **Repository Name:** 
-   - **Stars:** 
-   - **Forks:** 
-   - **Issues:** 
-
-2. **Repository Name:** 
-   - **Stars:** 
-   - **Forks:** 
-   - **Issues:** 
-
-3. **Repository Name:** 
-   - **Stars:** 
-   - **Forks:** 
-   - **Issues:** 
-
-## Contributions
-
-- **Total Contributions in the Last Year:** 
-- **Contributions to Open Source Projects:** 
-- **Contributions to Personal Projects:** 
-
-## Languages Used
-
-1. **Language 1:** 
-2. **Language 2:** 
-3. **Language 3:** 
-
-## Recent Activity
-
-- **Latest Commit:** 
-- **Latest Pull Request:** 
-- **Latest Issue:** 
-
-## Contact
-
-- **LinkedIn:** [https://www.linkedin.com/in/alex-houle-53a4b9328/]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Houle&layout=compact&theme=radical)
