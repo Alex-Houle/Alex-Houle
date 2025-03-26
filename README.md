@@ -7,4 +7,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Houle&layout=compact&theme=radical)
 
 
-## I am a current freshmen at UNH and am studying computer science
+## I am a current freshman at UNH, and I am studying computer science
+I plan on focusing on Systems Programming and networking
