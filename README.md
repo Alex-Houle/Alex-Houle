@@ -6,7 +6,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Houle&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Alex_Houle&theme=tokyonight&hide_border=true)
 
 
 
