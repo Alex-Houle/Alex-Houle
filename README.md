@@ -9,5 +9,4 @@
 
 
 
-## I am a current freshman at UNH, and I am studying computer science
-I plan on focusing on Systems Programming 
+## I am a current sophmoreat UNH, and I am studying computer science
