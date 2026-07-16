@@ -9,4 +9,4 @@
 
 
 
-## I am a current sophmoreat UNH, and I am studying computer science
+## I am a current Junior at UNH, and I am studying computer science
